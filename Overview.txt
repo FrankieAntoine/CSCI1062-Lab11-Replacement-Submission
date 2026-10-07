@@ -1,0 +1,21 @@
+Lab 11 Overview:
+
+The lab starter comes with three files, the CoordinateTester.cpp file for the Coordinate struct implementation, the BattleshipTester.cpp 
+for the Battleship Class implementation, and the battleship.cpp file that contains the majority of the game loop.
+
+In part 1 the student is to implement the Coordinate class, gameGridCoords vector, and function to initialize Coordinate pointers 
+dynamically into the gameGridCoords vector.
+
+In part 2 the student is to copy the implementations from CoordinateTester.cpp into BattleshipTester.cpp and implement the Battleship 
+class.
+
+In part 3 the student is to copy the implementations from the Tester files into the battleship.cpp file and complete the three TODO's: 
+Finish the beginning of the setUpGrid function, create the checkGridForShip function, and create the checkSunkShips function.
+
+At this point in the lab, we now have a working game. In part 4, the student is to create their own iteration to the game. This can be 
+things like adding a new game object to the game, making the grid bigger, or even changing the dialogue within the game loop and adding 
+ship names to the battleships, the choice is their's.
+
+This lab meets the learning outcomes since it is working with things like private and public members, constructors, dynamically creating 
+class objects, iterating vectors, accessing vector data, and using member functions of classes to work with vectors. The game loop 
+implements topics not found in 1060 but it is not necessary to deal with these topics within the scope of the lab.

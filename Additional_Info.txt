@@ -1,0 +1,14 @@
+Student Name: Frankie Antoine
+
+I consent for this lab being used as a replacement for the 1060 class thus submitting for the 5%. I'd also like to be mentioned as the designer.
+
+Note about this submission:
+This is submission number 2 since while play testing found an error while a player was inputting the second coordinate. If they inputted anything else other than a valid coordinate, it crashed. This error was found by my friend and 1060 student, Dominic Cristello.
+
+Note about the submission:
+Since the lab has three file starters, each part has been broken into files instead of .cpp files and each part demonstrates what everyone should have in each file during each part.
+
+Note about part 4:
+Since it is up to the student for what they want to do, within the part 4 folder I have an implementation of my own idea for the game which is expanding the grid from a 10 x 10 to a 14 x 14. This is not what the student needs to do but it is an example of what they could do.
+
+I also am opening this opportunity for you to contact me past the lifespan of this assignment for any questions or concerns. Regardless if this is used for the replacement or if you'd like to use it for something else, email me at frankant36@gmail.com if you'd like for me to continue to improve this or create any other project for any purpose.
